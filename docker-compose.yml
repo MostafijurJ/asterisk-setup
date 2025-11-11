@@ -14,6 +14,7 @@ services:
       - ./asterisk_conf/extensions.conf:/etc/asterisk/extensions.conf:ro
       - ./asterisk_conf/rtp.conf:/etc/asterisk/rtp.conf:ro
       - ./asterisk_conf_sounds:/var/lib/asterisk/sounds:ro
+      - ./asterisk_logs:/var/log/asterisk
 
 networks:
   asterisk_net:

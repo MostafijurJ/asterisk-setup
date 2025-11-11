@@ -1,0 +1,104 @@
+[Nov 11 08:55:32] Asterisk 22.6.0 built by root @ buildkitsandbox on a aarch64 running Linux on 2025-11-05 08:06:35 UTC
+[Nov 11 08:55:32] NOTICE[1] loader.c: 336 modules will be loaded.
+[Nov 11 08:55:32] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database user found, using 'asterisk' as default.
+[Nov 11 08:55:32] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database password found, using 'asterisk' as default.
+[Nov 11 08:55:32] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database host found, using localhost via socket.
+[Nov 11 08:55:32] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database name found, using 'asterisk' as default.
+[Nov 11 08:55:32] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database port found, using 5432 as default.
+[Nov 11 08:55:32] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database socket found, using '/tmp/.s.PGSQL.5432' as default.
+[Nov 11 08:55:32] ERROR[1] res_config_pgsql.c: PostgreSQL RealTime: Failed to connect database asterisk on : 
+[Nov 11 08:55:32] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: Couldn't establish connection. Check debug.
+[Nov 11 08:55:32] NOTICE[1] res_config_ldap.c: No directory user found, anonymous binding as default.
+[Nov 11 08:55:32] ERROR[1] res_config_ldap.c: No directory URL or host found.
+[Nov 11 08:55:32] ERROR[1] res_config_ldap.c: Cannot load LDAP RealTime driver.
+[Nov 11 08:55:32] NOTICE[1] cdr.c: CDR simple logging enabled.
+[Nov 11 08:55:32] NOTICE[1] indications.c: Default country for indication tones: us
+[Nov 11 08:55:32] NOTICE[1] indications.c: Setting default indication country to 'us'
+[Nov 11 08:55:32] ERROR[1] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
+[Nov 11 08:55:32] ERROR[1] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
+[Nov 11 08:55:32] ERROR[1] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
+[Nov 11 08:55:32] ERROR[1] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
+[Nov 11 08:55:32] ERROR[1] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
+[Nov 11 08:55:32] ERROR[1] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
+[Nov 11 08:55:32] ERROR[1] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
+[Nov 11 08:55:32] ERROR[1] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
+[Nov 11 08:55:32] ERROR[1] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
+[Nov 11 08:55:32] ERROR[1] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
+[Nov 11 08:55:32] ERROR[1] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
+[Nov 11 08:55:32] ERROR[1] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
+[Nov 11 08:55:32] NOTICE[1] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Nov 11 08:55:32] WARNING[1] res_musiconhold.c: No music on hold classes configured, disabling music on hold.
+[Nov 11 08:55:32] WARNING[1] res_phoneprov.c: Unable to find a valid server address or name.
+[Nov 11 08:55:32] ERROR[1] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
+[Nov 11 08:55:32] ERROR[1] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
+[Nov 11 08:55:32] NOTICE[1] confbridge/conf_config_parser.c: Adding default_menu menu to app_confbridge
+[Nov 11 08:55:32] NOTICE[1] cdr_pgsql.c: cdr_pgsql configuration contains no global section, skipping module load.
+[Nov 11 08:55:32] WARNING[1] cel_pgsql.c: CEL pgsql config file missing global section.
+[Nov 11 08:55:32] NOTICE[1] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Nov 11 08:55:32] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 196-196: macro call to ael-dundi-e164 cannot be found in the AEL code!
+[Nov 11 08:55:32] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 209-209: macro call to ael-dundi-e164 cannot be found in the AEL code!
+[Nov 11 08:55:32] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 328-328: macro call to ael-std-exten-ael cannot be found in the AEL code!
+[Nov 11 08:55:32] WARNING[1] loader.c: Some non-required modules failed to load.
+[Nov 11 08:55:32] WARNING[1] loader.c: Module 'res_adsi' has been loaded but may be removed in a future release.
+[Nov 11 08:55:32] WARNING[1] loader.c: Module 'app_adsiprog' has been loaded but may be removed in a future release.
+[Nov 11 08:55:32] WARNING[1] loader.c: Module 'app_getcpeid' has been loaded but may be removed in a future release.
+[Nov 11 08:55:32] ERROR[1] loader.c: Error loading module 'format_ogg_vorbis.so': libvorbisenc.so.2: cannot open shared object file: No such file or directory
+[Nov 11 08:55:32] ERROR[1] loader.c: cdr_pgsql declined to load.
+[Nov 11 08:55:32] ERROR[1] loader.c: cdr_sqlite3_custom declined to load.
+[Nov 11 08:55:32] ERROR[1] loader.c: cel_sqlite3_custom declined to load.
+[Nov 11 08:55:32] WARNING[13] pbx_config.c: users.conf is deprecated and will be removed in a future version of Asterisk
+[Nov 11 08:57:40] Asterisk 22.6.0 built by root @ buildkitsandbox on a aarch64 running Linux on 2025-11-05 08:06:35 UTC
+[Nov 11 08:57:40] NOTICE[1] loader.c: 336 modules will be loaded.
+[Nov 11 08:57:40] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database user found, using 'asterisk' as default.
+[Nov 11 08:57:40] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database password found, using 'asterisk' as default.
+[Nov 11 08:57:40] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database host found, using localhost via socket.
+[Nov 11 08:57:40] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database name found, using 'asterisk' as default.
+[Nov 11 08:57:40] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database port found, using 5432 as default.
+[Nov 11 08:57:40] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database socket found, using '/tmp/.s.PGSQL.5432' as default.
+[Nov 11 08:57:40] ERROR[1] res_config_pgsql.c: PostgreSQL RealTime: Failed to connect database asterisk on : 
+[Nov 11 08:57:40] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: Couldn't establish connection. Check debug.
+[Nov 11 08:57:40] NOTICE[1] res_config_ldap.c: No directory user found, anonymous binding as default.
+[Nov 11 08:57:40] ERROR[1] res_config_ldap.c: No directory URL or host found.
+[Nov 11 08:57:40] ERROR[1] res_config_ldap.c: Cannot load LDAP RealTime driver.
+[Nov 11 08:57:40] NOTICE[1] cdr.c: CDR simple logging enabled.
+[Nov 11 08:57:40] NOTICE[1] indications.c: Default country for indication tones: us
+[Nov 11 08:57:40] NOTICE[1] indications.c: Setting default indication country to 'us'
+[Nov 11 08:57:40] ERROR[1] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
+[Nov 11 08:57:40] ERROR[1] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
+[Nov 11 08:57:40] ERROR[1] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
+[Nov 11 08:57:40] ERROR[1] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
+[Nov 11 08:57:40] ERROR[1] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
+[Nov 11 08:57:40] ERROR[1] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
+[Nov 11 08:57:40] ERROR[1] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
+[Nov 11 08:57:40] ERROR[1] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
+[Nov 11 08:57:40] ERROR[1] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
+[Nov 11 08:57:40] ERROR[1] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
+[Nov 11 08:57:40] ERROR[1] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
+[Nov 11 08:57:40] ERROR[1] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
+[Nov 11 08:57:40] NOTICE[1] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Nov 11 08:57:40] WARNING[1] res_musiconhold.c: No music on hold classes configured, disabling music on hold.
+[Nov 11 08:57:40] WARNING[1] res_phoneprov.c: Unable to find a valid server address or name.
+[Nov 11 08:57:40] ERROR[1] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
+[Nov 11 08:57:40] ERROR[1] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
+[Nov 11 08:57:40] NOTICE[1] confbridge/conf_config_parser.c: Adding default_menu menu to app_confbridge
+[Nov 11 08:57:40] NOTICE[1] cdr_pgsql.c: cdr_pgsql configuration contains no global section, skipping module load.
+[Nov 11 08:57:40] WARNING[1] cel_pgsql.c: CEL pgsql config file missing global section.
+[Nov 11 08:57:40] NOTICE[1] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Nov 11 08:57:40] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 196-196: macro call to ael-dundi-e164 cannot be found in the AEL code!
+[Nov 11 08:57:40] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 209-209: macro call to ael-dundi-e164 cannot be found in the AEL code!
+[Nov 11 08:57:40] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 328-328: macro call to ael-std-exten-ael cannot be found in the AEL code!
+[Nov 11 08:57:40] WARNING[1] loader.c: Some non-required modules failed to load.
+[Nov 11 08:57:40] WARNING[1] loader.c: Module 'res_adsi' has been loaded but may be removed in a future release.
+[Nov 11 08:57:40] WARNING[1] loader.c: Module 'app_adsiprog' has been loaded but may be removed in a future release.
+[Nov 11 08:57:40] WARNING[1] loader.c: Module 'app_getcpeid' has been loaded but may be removed in a future release.
+[Nov 11 08:57:40] ERROR[1] loader.c: Error loading module 'format_ogg_vorbis.so': libvorbisenc.so.2: cannot open shared object file: No such file or directory
+[Nov 11 08:57:40] ERROR[1] loader.c: cdr_pgsql declined to load.
+[Nov 11 08:57:40] ERROR[1] loader.c: cdr_sqlite3_custom declined to load.
+[Nov 11 08:57:40] ERROR[1] loader.c: cel_sqlite3_custom declined to load.
+[Nov 11 08:57:40] WARNING[12] pbx_config.c: users.conf is deprecated and will be removed in a future version of Asterisk
+[Nov 11 08:57:54] ERROR[33] res_pjsip.c: Endpoint '1001': Could not create dialog to invalid URI '1001'.  Is endpoint registered and reachable?
+[Nov 11 08:57:54] ERROR[33] chan_pjsip.c: Failed to create outgoing session to endpoint '1001'
+[Nov 11 08:57:54] NOTICE[122][C-00000001] app_dial.c: Unable to create channel of type 'PJSIP' (cause 3 - No route to destination)
+[Nov 11 08:57:58] ERROR[33] res_pjsip.c: Endpoint '1001': Could not create dialog to invalid URI '1001'.  Is endpoint registered and reachable?
+[Nov 11 08:57:58] ERROR[33] chan_pjsip.c: Failed to create outgoing session to endpoint '1001'
+[Nov 11 08:57:58] NOTICE[123][C-00000002] app_dial.c: Unable to create channel of type 'PJSIP' (cause 3 - No route to destination)
