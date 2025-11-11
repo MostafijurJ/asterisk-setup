@@ -8,3 +8,304 @@
 [Nov 11 11:11:45] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: zf6-V5aAr2zUPkHNCcQuCw..) - Failed to authenticate
 [Nov 11 11:11:53] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: JtVSKbo_qv4Lj3WBl97h4Q..) - Failed to authenticate
 [Nov 11 11:12:06] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:26126' (callid: 781iGTAMK447-Hfefk-Mjg..) - Failed to authenticate
+[Nov 11 11:12:17] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: dSL42K9HYdEKYqoQKcGzrg..) - Failed to authenticate
+[Nov 11 11:12:17] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: PuCCg07SzlIWPW3SOtMBIQ..) - Failed to authenticate
+[Nov 11 11:12:25] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: fpFViDayMJ2RReYjaGHABg..) - Failed to authenticate
+[Nov 11 11:12:39] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:26126' (callid: mc4L7zgFXDDluk0lqJH0bA..) - Failed to authenticate
+[Nov 11 11:12:50] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: BxDMsVDH8TEYOBsYiihlpw..) - Failed to authenticate
+[Nov 11 11:12:50] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: BT6CM67dQN2b76sCpvIaWw..) - Failed to authenticate
+[Nov 11 11:12:58] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: 8P53-_1khz4QpexUHKaNdQ..) - Failed to authenticate
+[Nov 11 11:12:58] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: 8P53-_1khz4QpexUHKaNdQ..) - Failed to authenticate
+[Nov 11 11:13:11] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:26126' (callid: ZyHKG_h5SHhAiROJcicqjw..) - Failed to authenticate
+[Nov 11 11:13:22] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: PeKLscYvWfUK1QMeAtIvGw..) - Failed to authenticate
+[Nov 11 11:13:22] NOTICE[1130] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: xcqSaQF4GUsfuBbYerwalA..) - Failed to authenticate
+[Nov 11 11:13:30] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: xUO_udJEOMmHZrd1fD7ztQ..) - Failed to authenticate
+[Nov 11 11:13:44] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:26126' (callid: E7eb5DRNQ8Aq9jPUdGJ5jw..) - Failed to authenticate
+[Nov 11 11:13:54] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: g7xTgdJJYDYG7ajKZpIPyQ..) - Failed to authenticate
+[Nov 11 11:13:54] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: vsx0x5JSk6G0eBDjv3U34w..) - Failed to authenticate
+[Nov 11 11:14:02] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: zuoaXJpBD4V5l3LpfraWqQ..) - Failed to authenticate
+[Nov 11 11:14:16] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:26126' (callid: ltkzCrx-zO-j7pggqSUYlA..) - Failed to authenticate
+[Nov 11 11:14:26] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: I_Y657yW66_9X0anoVX8pw..) - Failed to authenticate
+[Nov 11 11:14:26] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: dpqaahdy_oKGkCtmMXncww..) - Failed to authenticate
+[Nov 11 11:14:48] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:26126' (callid: oIbpv2ULOT-Y6bsObParYg..) - Failed to authenticate
+[Nov 11 11:14:57] WARNING[33] res_pjsip_registrar.c: Registration attempt from endpoint '1001' (192.168.65.1:60552) to AOR '1001' will exceed max contacts of 1
+[Nov 11 11:14:58] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: faiaJL3CmzL7JqAvkVKcaw..) - Failed to authenticate
+[Nov 11 11:14:58] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: i_-IuBfBUerbh7jJLdnDUw..) - Failed to authenticate
+[Nov 11 11:15:21] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:26126' (callid: DTF2aWkVjHaAe-KsUEa5Uw..) - Failed to authenticate
+[Nov 11 11:15:30] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: sgtrLRuYkyPGCyYeUMmMEw..) - Failed to authenticate
+[Nov 11 11:15:30] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: REsPych8jm5dE24_0tudvQ..) - Failed to authenticate
+[Nov 11 11:15:42] WARNING[33] res_pjsip_registrar.c: Registration attempt from endpoint '1001' (192.168.65.1:60552) to AOR '1001' will exceed max contacts of 1
+[Nov 11 11:15:53] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:26126' (callid: jTNco5LvpxpGmbryRsEQQQ..) - Failed to authenticate
+[Nov 11 11:16:03] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: Ux8CHov8CbPvEKpGlRjgoQ..) - Failed to authenticate
+[Nov 11 11:16:03] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: jdC24titMLHRwb5RhQWefg..) - Failed to authenticate
+[Nov 11 11:16:18] Asterisk 22.6.0 built by root @ buildkitsandbox on a aarch64 running Linux on 2025-11-05 08:06:35 UTC
+[Nov 11 11:16:18] NOTICE[1] loader.c: 336 modules will be loaded.
+[Nov 11 11:16:18] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database user found, using 'asterisk' as default.
+[Nov 11 11:16:18] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database password found, using 'asterisk' as default.
+[Nov 11 11:16:18] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database host found, using localhost via socket.
+[Nov 11 11:16:18] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database name found, using 'asterisk' as default.
+[Nov 11 11:16:18] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database port found, using 5432 as default.
+[Nov 11 11:16:18] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database socket found, using '/tmp/.s.PGSQL.5432' as default.
+[Nov 11 11:16:18] ERROR[1] res_config_pgsql.c: PostgreSQL RealTime: Failed to connect database asterisk on : 
+[Nov 11 11:16:18] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: Couldn't establish connection. Check debug.
+[Nov 11 11:16:18] NOTICE[1] res_config_ldap.c: No directory user found, anonymous binding as default.
+[Nov 11 11:16:18] ERROR[1] res_config_ldap.c: No directory URL or host found.
+[Nov 11 11:16:18] ERROR[1] res_config_ldap.c: Cannot load LDAP RealTime driver.
+[Nov 11 11:16:18] NOTICE[1] cdr.c: CDR simple logging enabled.
+[Nov 11 11:16:18] NOTICE[1] indications.c: Default country for indication tones: us
+[Nov 11 11:16:18] NOTICE[1] indications.c: Setting default indication country to 'us'
+[Nov 11 11:16:18] NOTICE[1] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Nov 11 11:16:18] WARNING[1] res_musiconhold.c: No music on hold classes configured, disabling music on hold.
+[Nov 11 11:16:18] WARNING[1] res_phoneprov.c: Unable to find a valid server address or name.
+[Nov 11 11:16:18] NOTICE[1] confbridge/conf_config_parser.c: Adding default_menu menu to app_confbridge
+[Nov 11 11:16:18] NOTICE[1] cdr_pgsql.c: cdr_pgsql configuration contains no global section, skipping module load.
+[Nov 11 11:16:18] WARNING[1] cel_pgsql.c: CEL pgsql config file missing global section.
+[Nov 11 11:16:18] NOTICE[1] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Nov 11 11:16:18] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 196-196: macro call to ael-dundi-e164 cannot be found in the AEL code!
+[Nov 11 11:16:18] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 209-209: macro call to ael-dundi-e164 cannot be found in the AEL code!
+[Nov 11 11:16:18] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 328-328: macro call to ael-std-exten-ael cannot be found in the AEL code!
+[Nov 11 11:16:18] WARNING[1] loader.c: Some non-required modules failed to load.
+[Nov 11 11:16:18] WARNING[1] loader.c: Module 'res_adsi' has been loaded but may be removed in a future release.
+[Nov 11 11:16:18] WARNING[1] loader.c: Module 'app_adsiprog' has been loaded but may be removed in a future release.
+[Nov 11 11:16:18] WARNING[1] loader.c: Module 'app_getcpeid' has been loaded but may be removed in a future release.
+[Nov 11 11:16:18] ERROR[1] loader.c: Error loading module 'format_ogg_vorbis.so': libvorbisenc.so.2: cannot open shared object file: No such file or directory
+[Nov 11 11:16:18] ERROR[1] loader.c: cdr_pgsql declined to load.
+[Nov 11 11:16:18] ERROR[1] loader.c: cdr_sqlite3_custom declined to load.
+[Nov 11 11:16:18] ERROR[1] loader.c: cel_sqlite3_custom declined to load.
+[Nov 11 11:16:18] WARNING[12] pbx_config.c: users.conf is deprecated and will be removed in a future version of Asterisk
+[Nov 11 11:16:26] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60974' (callid: F_WtAippcwf2w6cxfhs1yw..) - Failed to authenticate
+[Nov 11 11:16:26] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60974' (callid: F_WtAippcwf2w6cxfhs1yw..) - Failed to authenticate
+[Nov 11 11:16:35] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: MMkhubRKhXYRwWAPl1SDJw..) - Failed to authenticate
+[Nov 11 11:16:35] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: eqx-G2wDgzIxHEzHZBd45Q..) - Failed to authenticate
+[Nov 11 11:16:49] WARNING[33] res_pjsip_registrar.c: Registration attempt from endpoint '1001' (192.168.65.1:45602) to AOR '1001' will exceed max contacts of 1
+[Nov 11 11:16:58] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60974' (callid: UZKIho_ie5viFSS5jWEtZw..) - Failed to authenticate
+[Nov 11 11:17:07] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: 68wIBqdn9enPuPwiXEVtbQ..) - Failed to authenticate
+[Nov 11 11:17:07] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: sWGwcMTe-afsJ7nzaySPeA..) - Failed to authenticate
+[Nov 11 11:17:30] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60974' (callid: _W_U-jLsPBiC_6rcVW3QkA..) - Failed to authenticate
+[Nov 11 11:17:39] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: psATEAZR40kIPx9XDenFcQ..) - Failed to authenticate
+[Nov 11 11:17:39] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: 14xuWIfPqv6N7vKraCZ67Q..) - Failed to authenticate
+[Nov 11 11:18:03] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60974' (callid: DbCBo17EGZxdKcJW3rIrbA..) - Failed to authenticate
+[Nov 11 11:18:12] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: 2BpG_mNsfSIXXC1_8MdE3Q..) - Failed to authenticate
+[Nov 11 11:18:12] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: nG5mev96DX16LK8KbGWV5g..) - Failed to authenticate
+[Nov 11 11:18:37] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60974' (callid: gR-wOR1J66eS4NXumuclLA..) - Failed to authenticate
+[Nov 11 11:18:37] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60974' (callid: gR-wOR1J66eS4NXumuclLA..) - Failed to authenticate
+[Nov 11 11:18:44] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: DwyYgaRzZungI6-wWU5mZw..) - Failed to authenticate
+[Nov 11 11:18:44] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: bLER3VxaxnX_iFiE6_anww..) - Failed to authenticate
+[Nov 11 11:19:09] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60974' (callid: Acq8wNl6wxPiM0dQ8ExzWA..) - Failed to authenticate
+[Nov 11 11:19:16] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: yOutJQzCQpytbZx4lmOwIQ..) - Failed to authenticate
+[Nov 11 11:19:16] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: CHjL7Deiuf9_0uitRI-T-g..) - Failed to authenticate
+[Nov 11 11:19:48] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: XkVMHwR_o9-SS8VhRMZ9RA..) - Failed to authenticate
+[Nov 11 11:19:48] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: vTvxa642KUSGUgT48t8Yog..) - Failed to authenticate
+[Nov 11 11:19:52] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60974' (callid: KrKhG0wGnyFUzEVhtIozxA..) - Failed to authenticate
+[Nov 11 11:19:52] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60974' (callid: KrKhG0wGnyFUzEVhtIozxA..) - Failed to authenticate
+[Nov 11 11:20:20] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: yl8Ui0Hvnl7aSb3rPxMKjw..) - Failed to authenticate
+[Nov 11 11:20:20] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: GiGwSVa4IiuDsQEvMw2U4Q..) - Failed to authenticate
+[Nov 11 11:20:24] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60974' (callid: kvcfUb5LwupglxJczKzphw..) - Failed to authenticate
+[Nov 11 11:20:53] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: G4MzZgN5ezM8FxiQ02gWtQ..) - Failed to authenticate
+[Nov 11 11:20:53] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: u9VmOoxHGo1FWssuVbzp2g..) - Failed to authenticate
+[Nov 11 11:20:56] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60974' (callid: Y3gjMIZfpI6gJ3LwhGgLiw..) - Failed to authenticate
+[Nov 11 11:21:25] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: hdbx-FfcPiiMC3MOYD75hw..) - Failed to authenticate
+[Nov 11 11:21:25] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: 4bMepSPsWsTfB1sNscCnCg..) - Failed to authenticate
+[Nov 11 11:21:57] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: 2oWrx63K7gSpGajnAc24uQ..) - Failed to authenticate
+[Nov 11 11:21:57] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: BQMyhohnIyCLAS3nH4PU1Q..) - Failed to authenticate
+[Nov 11 11:22:29] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: GPtLLfz5ifVgnv0JDTTvFA..) - Failed to authenticate
+[Nov 11 11:22:29] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: 5-SwjRfGhQ2tnYi7JsK8uA..) - Failed to authenticate
+[Nov 11 11:23:02] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: linH9oVLPGdQ7CVwfWPdFw..) - Failed to authenticate
+[Nov 11 11:23:02] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: 8GzXTUkWfkUxDcxBQBq4Og..) - Failed to authenticate
+[Nov 11 11:23:34] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: f4YI-EinQHla3LtnKAMktg..) - Failed to authenticate
+[Nov 11 11:23:34] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: 2Q7Uz-Fr5kmkSg2rTXGZXg..) - Failed to authenticate
+[Nov 11 11:24:06] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: 4tP-t9vR_8ZrolKmL792JA..) - Failed to authenticate
+[Nov 11 11:24:06] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: BTTy6EMCtJpx2HdqDeLsxQ..) - Failed to authenticate
+[Nov 11 11:24:38] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: BY1h1YeE0NTedY04auYaKw..) - Failed to authenticate
+[Nov 11 11:24:38] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: t3nZaNpFfV1WsD2e0LkuBg..) - Failed to authenticate
+[Nov 11 11:25:10] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: LgPihDiZWfXlRc_SeXge2A..) - Failed to authenticate
+[Nov 11 11:25:10] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: b7mqVLI-5cj3jAuhy3rn3w..) - Failed to authenticate
+[Nov 11 11:25:43] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: ipyD0ugiAxs3ho-V00Phmg..) - Failed to authenticate
+[Nov 11 11:25:43] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: qPKvMWQSx9BtPl2Y61aASA..) - Failed to authenticate
+[Nov 11 11:25:43] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: qPKvMWQSx9BtPl2Y61aASA..) - Failed to authenticate
+[Nov 11 11:25:43] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: ipyD0ugiAxs3ho-V00Phmg..) - Failed to authenticate
+[Nov 11 11:26:15] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: MwMo4YSXYakfaYUBBdpXIg..) - Failed to authenticate
+[Nov 11 11:26:15] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: suR-md1WJQjY3YllDT8h7w..) - Failed to authenticate
+[Nov 11 11:26:47] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: JbkAu77LZ2EVUA3KRSshpw..) - Failed to authenticate
+[Nov 11 11:26:47] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: XmSvZxK4mck6YREhTJ_xWw..) - Failed to authenticate
+[Nov 11 11:27:19] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: ThppRGyDbJYgOXa8X-xQXg..) - Failed to authenticate
+[Nov 11 11:27:19] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: eD9OqmGQhjgwp5X2Ovwerw..) - Failed to authenticate
+[Nov 11 11:27:51] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: p6V36d15H2JqIbahDobdQg..) - Failed to authenticate
+[Nov 11 11:27:51] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: Jx0pG5adRWZOJbHsXlQjMg..) - Failed to authenticate
+[Nov 11 11:28:24] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: PtJNPRY3hHhqDoF_gBgvyg..) - Failed to authenticate
+[Nov 11 11:28:24] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: q12txv-ttEkz5NG8Bb_qwg..) - Failed to authenticate
+[Nov 11 11:28:24] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: q12txv-ttEkz5NG8Bb_qwg..) - Failed to authenticate
+[Nov 11 11:28:24] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: PtJNPRY3hHhqDoF_gBgvyg..) - Failed to authenticate
+[Nov 11 11:28:56] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: 8SUZ46ZnUpnohvP9CPnBbw..) - Failed to authenticate
+[Nov 11 11:28:56] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: ZO40fPfeWMHCO8ydXxlnqQ..) - Failed to authenticate
+[Nov 11 11:29:28] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: HZqJWqw8NVOYuzQ4FBhlbw..) - Failed to authenticate
+[Nov 11 11:29:28] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: T7dIk_ljBUkM21sifnf8bg..) - Failed to authenticate
+[Nov 11 11:30:00] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: m9L6-ISYJih2e7BKAAkyZg..) - Failed to authenticate
+[Nov 11 11:30:00] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: Utq3vySdJXpZAXOJ6ldwUg..) - Failed to authenticate
+[Nov 11 11:30:33] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: cydTSdHqxM51PRGAA52ujA..) - Failed to authenticate
+[Nov 11 11:30:33] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: wAtVP5_UgnmiLQEpgfl7Ug..) - Failed to authenticate
+[Nov 11 11:31:05] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: D_FGf-QAm0T0rerPFM1jvg..) - Failed to authenticate
+[Nov 11 11:31:05] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: YojGsa9oPjoFmm1QeisA4Q..) - Failed to authenticate
+[Nov 11 11:31:37] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: bnwW5G0Kgzseas2z4CG1uw..) - Failed to authenticate
+[Nov 11 11:31:37] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: S_Q8Uv8QUpJr4LS1-o6l1A..) - Failed to authenticate
+[Nov 11 11:32:09] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: _Nkt1jd5OKL-Ww_VgCUe2g..) - Failed to authenticate
+[Nov 11 11:32:09] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: GkvaogA8GJn-UIXMNmVuXw..) - Failed to authenticate
+[Nov 11 11:32:41] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: 1rDHyhy6FJGCcEeHhmRaWw..) - Failed to authenticate
+[Nov 11 11:32:41] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: qSMGNFFjyhecCmVhkL_ygA..) - Failed to authenticate
+[Nov 11 11:33:14] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: 5Jw_CnVPg0UIVfbhhtV1lw..) - Failed to authenticate
+[Nov 11 11:33:14] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: rfC6lKAjb1jBQmCbLRIwFw..) - Failed to authenticate
+[Nov 11 11:33:46] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: lC3rUnzScI-ju1duZntN1g..) - Failed to authenticate
+[Nov 11 11:33:46] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: SVt4pCbVS3yLsAYbfNBsRA..) - Failed to authenticate
+[Nov 11 11:33:49] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: BzHs9ll3cXf4e9IZKBQ55g..) - Failed to authenticate
+[Nov 11 11:33:49] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: _pYnkcxBiaCMpN2uKOayiw..) - Failed to authenticate
+[Nov 11 11:33:50] WARNING[33] res_pjsip_registrar.c: Registration attempt from endpoint '1002' (192.168.65.1:17793) to AOR '1002' will exceed max contacts of 1
+[Nov 11 11:51:05] NOTICE[1410] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: 5UkkyXAsawfspA7SF5V7mg..) - Failed to authenticate
+[Nov 11 11:51:05] NOTICE[1410] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: GU-sqqTuFt8hUFu-C6WcLQ..) - Failed to authenticate
+[Nov 11 11:51:20] NOTICE[1410] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: WCN5DOmqZxyWQjocqxf7Mw..) - Failed to authenticate
+[Nov 11 11:51:20] NOTICE[1411] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: b2IrQ_ZXNfZUyFH7LyLrzg..) - Failed to authenticate
+[Nov 11 11:52:39] NOTICE[1484] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: lRzStuWyivu9KEA1HkwiTA..) - Failed to authenticate
+[Nov 11 11:52:39] NOTICE[1484] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: BLxYk6--AKzRSwbn94DL5A..) - Failed to authenticate
+[Nov 11 11:52:54] NOTICE[1485] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: p566mDowaaKwM5lKXUBLWw..) - Failed to authenticate
+[Nov 11 11:52:54] NOTICE[1484] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: IHp04EBuOT6WqBcpGasJqA..) - Failed to authenticate
+[Nov 11 11:56:28] NOTICE[1524] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: vhN2ZpjxdIMMnBbJRzD9xw..) - Failed to authenticate
+[Nov 11 11:56:28] NOTICE[1525] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: _y49BKwbBYtyXghffZCzuA..) - Failed to authenticate
+[Nov 11 11:56:43] NOTICE[1524] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: Jaf1Of6UlfWsMxfhfpDJkQ..) - Failed to authenticate
+[Nov 11 11:56:43] NOTICE[1524] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: OOImeHqHAODaKTR3yD8KGg..) - Failed to authenticate
+[Nov 11 12:02:40] NOTICE[1598] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: ET2GPVEy52pSb5X0RpK1dA..) - Failed to authenticate
+[Nov 11 12:02:40] NOTICE[1599] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: jJpyaWiw7MJ7FurrceWCtw..) - Failed to authenticate
+[Nov 11 12:02:55] NOTICE[1598] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: ac52FURD5xfRZUByUcFPBw..) - Failed to authenticate
+[Nov 11 12:02:55] NOTICE[1598] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: _JlP6vzQ4TN5phhwJ6FmZA..) - Failed to authenticate
+[Nov 11 12:08:47] NOTICE[1640] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: omXZYRT-jB7B7-_u8xiqdA..) - Failed to authenticate
+[Nov 11 12:08:47] NOTICE[1641] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:45602' (callid: 86NbxWQPZo56qDn-uYM4Tw..) - Failed to authenticate
+[Nov 11 12:15:14] Asterisk 22.6.0 built by root @ buildkitsandbox on a aarch64 running Linux on 2025-11-05 08:06:35 UTC
+[Nov 11 12:15:14] NOTICE[1] loader.c: 336 modules will be loaded.
+[Nov 11 12:15:14] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database user found, using 'asterisk' as default.
+[Nov 11 12:15:14] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database password found, using 'asterisk' as default.
+[Nov 11 12:15:14] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database host found, using localhost via socket.
+[Nov 11 12:15:14] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database name found, using 'asterisk' as default.
+[Nov 11 12:15:14] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database port found, using 5432 as default.
+[Nov 11 12:15:14] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database socket found, using '/tmp/.s.PGSQL.5432' as default.
+[Nov 11 12:15:14] ERROR[1] res_config_pgsql.c: PostgreSQL RealTime: Failed to connect database asterisk on : 
+[Nov 11 12:15:14] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: Couldn't establish connection. Check debug.
+[Nov 11 12:15:14] NOTICE[1] res_config_ldap.c: No directory user found, anonymous binding as default.
+[Nov 11 12:15:14] ERROR[1] res_config_ldap.c: No directory URL or host found.
+[Nov 11 12:15:14] ERROR[1] res_config_ldap.c: Cannot load LDAP RealTime driver.
+[Nov 11 12:15:14] NOTICE[1] cdr.c: CDR simple logging enabled.
+[Nov 11 12:15:14] NOTICE[1] indications.c: Default country for indication tones: us
+[Nov 11 12:15:14] NOTICE[1] indications.c: Setting default indication country to 'us'
+[Nov 11 12:15:14] NOTICE[1] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Nov 11 12:15:14] WARNING[1] res_musiconhold.c: No music on hold classes configured, disabling music on hold.
+[Nov 11 12:15:14] WARNING[1] res_phoneprov.c: Unable to find a valid server address or name.
+[Nov 11 12:15:14] NOTICE[1] confbridge/conf_config_parser.c: Adding default_menu menu to app_confbridge
+[Nov 11 12:15:14] NOTICE[1] cdr_pgsql.c: cdr_pgsql configuration contains no global section, skipping module load.
+[Nov 11 12:15:14] WARNING[1] cel_pgsql.c: CEL pgsql config file missing global section.
+[Nov 11 12:15:14] NOTICE[1] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Nov 11 12:15:14] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 196-196: macro call to ael-dundi-e164 cannot be found in the AEL code!
+[Nov 11 12:15:14] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 209-209: macro call to ael-dundi-e164 cannot be found in the AEL code!
+[Nov 11 12:15:14] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 328-328: macro call to ael-std-exten-ael cannot be found in the AEL code!
+[Nov 11 12:15:14] WARNING[1] loader.c: Some non-required modules failed to load.
+[Nov 11 12:15:14] WARNING[1] loader.c: Module 'res_adsi' has been loaded but may be removed in a future release.
+[Nov 11 12:15:14] WARNING[1] loader.c: Module 'app_adsiprog' has been loaded but may be removed in a future release.
+[Nov 11 12:15:14] WARNING[1] loader.c: Module 'app_getcpeid' has been loaded but may be removed in a future release.
+[Nov 11 12:15:14] ERROR[1] loader.c: Error loading module 'format_ogg_vorbis.so': libvorbisenc.so.2: cannot open shared object file: No such file or directory
+[Nov 11 12:15:14] ERROR[1] loader.c: cdr_pgsql declined to load.
+[Nov 11 12:15:14] ERROR[1] loader.c: cdr_sqlite3_custom declined to load.
+[Nov 11 12:15:14] ERROR[1] loader.c: cel_sqlite3_custom declined to load.
+[Nov 11 12:15:14] WARNING[12] pbx_config.c: users.conf is deprecated and will be removed in a future version of Asterisk
+[Nov 11 12:15:44] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: zoMwMwbRSvDsAphup4dORw..) - Failed to authenticate
+[Nov 11 12:15:44] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: jcE1RD1TEF9a_SICb9SoCw..) - Failed to authenticate
+[Nov 11 12:16:16] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: azGY9jR5iqAufmbRsyFKgA..) - Failed to authenticate
+[Nov 11 12:16:16] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: icpLN9dscaCfSwOWRJTNgQ..) - Failed to authenticate
+[Nov 11 12:16:48] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: WCOFnkD8-M7yp0xQ7jnEIg..) - Failed to authenticate
+[Nov 11 12:16:48] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: 0YLw_g5pMwQcCMrfQapiOg..) - Failed to authenticate
+[Nov 11 12:17:20] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: 8ug3vKUUoVRQ5AQiSIuAsQ..) - Failed to authenticate
+[Nov 11 12:17:20] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: 9IutudXEI4kKuX1DF_gfOg..) - Failed to authenticate
+[Nov 11 12:17:52] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: 5SEUjGJMjdYYddj9--I4nw..) - Failed to authenticate
+[Nov 11 12:17:52] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: P6wRmaegaLngoEbeG-MAqQ..) - Failed to authenticate
+[Nov 11 12:18:25] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: LT4IFfcI2x3Lvz5Aihsqhw..) - Failed to authenticate
+[Nov 11 12:18:25] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: weEt5ECWV8X4ExVH01dPIw..) - Failed to authenticate
+[Nov 11 12:18:57] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: 3ZOW4vwFkB1OqEQ-iW_x3g..) - Failed to authenticate
+[Nov 11 12:18:57] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: PkU8R3qvdavclm2QPk3RoQ..) - Failed to authenticate
+[Nov 11 12:19:29] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: 5h4K5POBg16NavHB3HpdYQ..) - Failed to authenticate
+[Nov 11 12:19:29] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: NASAdx6gcln-nugeL_iJOQ..) - Failed to authenticate
+[Nov 11 12:20:01] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: -N7bwlfwIGBCKmOfxJB2uQ..) - Failed to authenticate
+[Nov 11 12:20:01] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: u1A5F4kXe0KjQ-qyAwtoXw..) - Failed to authenticate
+[Nov 11 12:20:34] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: v6te_KoJZ1GhF_LSd4KBdA..) - Failed to authenticate
+[Nov 11 12:20:34] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: BOxHerR8tkVIkZl4DRAYgQ..) - Failed to authenticate
+[Nov 11 12:21:06] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: O5IFsHGbK25tkrcfD_0AlA..) - Failed to authenticate
+[Nov 11 12:21:06] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: x0Sb86VDaN-BMijboO-oYQ..) - Failed to authenticate
+[Nov 11 12:21:38] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: oA_p-XZbsajYSjEtehYNFw..) - Failed to authenticate
+[Nov 11 12:21:38] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: NkNnoerJd7GOstPI4ywR1A..) - Failed to authenticate
+[Nov 11 12:21:46] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:65531' (callid: o4sE3-7qakoWe-SHKBSakw..) - Failed to authenticate
+[Nov 11 12:21:50] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:65531' (callid: gxtbefdi6GBMdh5aBADLWg..) - Failed to authenticate
+[Nov 11 12:21:59] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:65531' (callid: smrA-vZCfC5Skth2XLCmQA..) - Failed to authenticate
+[Nov 11 12:21:59] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:65531' (callid: smrA-vZCfC5Skth2XLCmQA..) - Failed to authenticate
+[Nov 11 12:21:59] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'INVITE' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:65531' (callid: ofYFOwUQwIoB-us24qhQJQ..) - Failed to authenticate
+[Nov 11 12:22:06] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'INVITE' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:65531' (callid: EenwyxSqFdWNnW7o7fl2Zw..) - Failed to authenticate
+[Nov 11 12:22:10] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'INVITE' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:65531' (callid: XNQtMmQVCtTMJoiv6UBsOQ..) - Failed to authenticate
+[Nov 11 12:22:10] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: PIfm9_XcFSEU_Fnx2jhdig..) - Failed to authenticate
+[Nov 11 12:22:10] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: u8wAAOh_GvH2nxDqHhkQ1g..) - Failed to authenticate
+[Nov 11 12:22:14] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'INVITE' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:65531' (callid: 0dtTqBDYhFXe1isOew2uqQ..) - Failed to authenticate
+[Nov 11 12:22:15] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:65531' (callid: oSuHha5JHUcy7yImyj-zjw..) - Failed to authenticate
+[Nov 11 12:22:20] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'INVITE' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:65531' (callid: 8c0If1XZtAHywYk-v00ZrQ..) - Failed to authenticate
+[Nov 11 12:22:28] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'INVITE' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:65531' (callid: 6d9phFAot--KTOU_R-e7FA..) - Failed to authenticate
+[Nov 11 12:22:42] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: KJlXfwBdAU_s6zHandJ2HQ..) - Failed to authenticate
+[Nov 11 12:22:42] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: SumGdn_GDDVcdzqy2xdfUw..) - Failed to authenticate
+[Nov 11 12:23:06] WARNING[33] res_pjsip_registrar.c: Registration attempt from endpoint '1002' (192.168.65.1:65531) to AOR '1002' will exceed max contacts of 1
+[Nov 11 12:23:15] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: NE7w6UndT996o22obViaIQ..) - Failed to authenticate
+[Nov 11 12:23:15] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: W9emJF982t8JBy0OaPleiw..) - Failed to authenticate
+[Nov 11 12:23:47] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: DdgVFLlTHMXh3LL7Vv8Elw..) - Failed to authenticate
+[Nov 11 12:23:47] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: NNGq9ckztFoTSFj5LuyDLw..) - Failed to authenticate
+[Nov 11 12:23:54] WARNING[33] res_pjsip_registrar.c: Registration attempt from endpoint '1002' (192.168.65.1:65531) to AOR '1002' will exceed max contacts of 1
+[Nov 11 12:24:19] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: 4OpxH6HUyLFL53ICiRDH0A..) - Failed to authenticate
+[Nov 11 12:24:19] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: nqkTjJZD6LXVsLkIuV3dYQ..) - Failed to authenticate
+[Nov 11 12:24:51] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: oBAIkE1QCuuHTR29U4p5iw..) - Failed to authenticate
+[Nov 11 12:24:51] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: 6Zr5M61zIeM_fSXBaRB8ig..) - Failed to authenticate
+[Nov 11 12:25:01] WARNING[33] res_pjsip_registrar.c: Registration attempt from endpoint '1002' (192.168.65.1:65531) to AOR '1002' will exceed max contacts of 1
+[Nov 11 12:25:24] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: DeCdEcz4o8Zh03iEF2fB1g..) - Failed to authenticate
+[Nov 11 12:25:24] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:52427' (callid: Iklw_SqkPrIevh9BC7DxpA..) - Failed to authenticate
+[Nov 11 12:25:53] Asterisk 22.6.0 built by root @ buildkitsandbox on a aarch64 running Linux on 2025-11-05 08:06:35 UTC
+[Nov 11 12:25:53] NOTICE[1] loader.c: 336 modules will be loaded.
+[Nov 11 12:25:53] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database user found, using 'asterisk' as default.
+[Nov 11 12:25:53] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database password found, using 'asterisk' as default.
+[Nov 11 12:25:53] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database host found, using localhost via socket.
+[Nov 11 12:25:53] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database name found, using 'asterisk' as default.
+[Nov 11 12:25:53] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database port found, using 5432 as default.
+[Nov 11 12:25:53] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: No database socket found, using '/tmp/.s.PGSQL.5432' as default.
+[Nov 11 12:25:53] ERROR[1] res_config_pgsql.c: PostgreSQL RealTime: Failed to connect database asterisk on : 
+[Nov 11 12:25:53] WARNING[1] res_config_pgsql.c: PostgreSQL RealTime: Couldn't establish connection. Check debug.
+[Nov 11 12:25:53] NOTICE[1] res_config_ldap.c: No directory user found, anonymous binding as default.
+[Nov 11 12:25:53] ERROR[1] res_config_ldap.c: No directory URL or host found.
+[Nov 11 12:25:53] ERROR[1] res_config_ldap.c: Cannot load LDAP RealTime driver.
+[Nov 11 12:25:53] NOTICE[1] cdr.c: CDR simple logging enabled.
+[Nov 11 12:25:53] NOTICE[1] indications.c: Default country for indication tones: us
+[Nov 11 12:25:53] NOTICE[1] indications.c: Setting default indication country to 'us'
+[Nov 11 12:25:54] NOTICE[1] res_smdi.c: No SMDI interfaces are available to listen on, not starting SMDI listener.
+[Nov 11 12:25:54] WARNING[1] res_musiconhold.c: No music on hold classes configured, disabling music on hold.
+[Nov 11 12:25:54] WARNING[1] res_phoneprov.c: Unable to find a valid server address or name.
+[Nov 11 12:25:54] NOTICE[1] confbridge/conf_config_parser.c: Adding default_menu menu to app_confbridge
+[Nov 11 12:25:54] NOTICE[1] cdr_pgsql.c: cdr_pgsql configuration contains no global section, skipping module load.
+[Nov 11 12:25:54] WARNING[1] cel_pgsql.c: CEL pgsql config file missing global section.
+[Nov 11 12:25:54] NOTICE[1] cel_custom.c: No mappings found in cel_custom.conf. Not logging CEL to custom CSVs.
+[Nov 11 12:25:54] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 196-196: macro call to ael-dundi-e164 cannot be found in the AEL code!
+[Nov 11 12:25:54] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 209-209: macro call to ael-dundi-e164 cannot be found in the AEL code!
+[Nov 11 12:25:54] WARNING[1] ael/pval.c: Warning: file /etc/asterisk/extensions.ael, line 328-328: macro call to ael-std-exten-ael cannot be found in the AEL code!
+[Nov 11 12:25:54] WARNING[1] loader.c: Some non-required modules failed to load.
+[Nov 11 12:25:54] WARNING[1] loader.c: Module 'res_adsi' has been loaded but may be removed in a future release.
+[Nov 11 12:25:54] WARNING[1] loader.c: Module 'app_adsiprog' has been loaded but may be removed in a future release.
+[Nov 11 12:25:54] WARNING[1] loader.c: Module 'app_getcpeid' has been loaded but may be removed in a future release.
+[Nov 11 12:25:54] ERROR[1] loader.c: Error loading module 'format_ogg_vorbis.so': libvorbisenc.so.2: cannot open shared object file: No such file or directory
+[Nov 11 12:25:54] ERROR[1] loader.c: cdr_pgsql declined to load.
+[Nov 11 12:25:54] ERROR[1] loader.c: cdr_sqlite3_custom declined to load.
+[Nov 11 12:25:54] ERROR[1] loader.c: cel_sqlite3_custom declined to load.
+[Nov 11 12:25:54] WARNING[11] pbx_config.c: users.conf is deprecated and will be removed in a future version of Asterisk
+[Nov 11 12:25:56] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: JvKDDir3O5dF7ptF9BtsUg..) - Failed to authenticate
+[Nov 11 12:25:56] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: hvgNjPAd97DppnMCKHD24A..) - Failed to authenticate
+[Nov 11 12:26:28] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: HnmHYYK6DbjDSz9AjWBCFg..) - Failed to authenticate
+[Nov 11 12:26:28] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: E7qPKTwQlODXqa2SomApww..) - Failed to authenticate
+[Nov 11 12:27:00] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: ZPfjqMzNm_Nm0S9hi6RKXQ..) - Failed to authenticate
+[Nov 11 12:27:00] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: tZZ0OH2wztIP97ZN6a_XoQ..) - Failed to authenticate
+[Nov 11 12:27:32] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: byQQ-q6ujPzqG1LYX0ktQA..) - Failed to authenticate
+[Nov 11 12:27:32] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: tiyfgQ9P0ONYHEF4Fn_V2Q..) - Failed to authenticate
+[Nov 11 12:28:05] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: KaU8C86ZO_NCGCrTPedC0Q..) - Failed to authenticate
+[Nov 11 12:28:05] NOTICE[34] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: ns-6GEIfnXTQTEQ-OybLdg..) - Failed to authenticate
