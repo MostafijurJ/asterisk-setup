@@ -38,6 +38,7 @@ Note this IP address - you'll need it for configuration.
 
 Edit the transport section to use your Mac's IP address:
 
+
 ```ini
 [transport-udp]
 type=transport

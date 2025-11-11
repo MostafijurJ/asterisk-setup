@@ -459,3 +459,11 @@
 [Nov 11 14:29:01] NOTICE[2576] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: KjiYlS8WfjggEm5CgZVBoA..) - Failed to authenticate
 [Nov 11 14:29:33] NOTICE[2576] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: qIeKaXzBxnCMY2okCcBudQ..) - Failed to authenticate
 [Nov 11 14:29:33] NOTICE[2576] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: 6MlE1Dix6rF37q45lXKiWQ..) - Failed to authenticate
+[Nov 11 14:30:05] NOTICE[2577] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: kTYvZnTqgioauOwnI1Odkw..) - Failed to authenticate
+[Nov 11 14:30:05] NOTICE[2576] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: io2nJ2BGJjXCnMwm6G4NDg..) - Failed to authenticate
+[Nov 11 14:30:38] NOTICE[2576] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: bqeUoy_A0wAjrvxdAFADsA..) - Failed to authenticate
+[Nov 11 14:30:38] NOTICE[2576] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: YIZ2CboWo7cE883-PEetNw..) - Failed to authenticate
+[Nov 11 14:31:10] NOTICE[2576] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: BDoEnh1207E-djltZl6ozw..) - Failed to authenticate
+[Nov 11 14:31:10] NOTICE[2577] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: QRz82bPCdMTzLpgXY3ywyw..) - Failed to authenticate
+[Nov 11 14:31:42] NOTICE[2576] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: _n5cCvjvJj2zZXUEZJ6WDg..) - Failed to authenticate
+[Nov 11 14:31:42] NOTICE[2576] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:34971' (callid: fxEcx0vrF87id9Ik1KTzMg..) - Failed to authenticate
