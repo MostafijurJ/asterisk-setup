@@ -10,12 +10,9 @@ services:
       - "5060:5060/tcp"
       - "10000-10100:10000-10100/udp"
     volumes:
-      - ./asterisk_conf/asterisk.conf:/etc/asterisk/asterisk.conf:ro
       - ./asterisk_conf/pjsip.conf:/etc/asterisk/pjsip.conf:ro
+      - ./asterisk_conf/extensions.conf:/etc/asterisk/extensions.conf:ro
       - ./asterisk_conf/rtp.conf:/etc/asterisk/rtp.conf:ro
-      - ./asterisk_conf/logger.conf:/etc/asterisk/logger.conf:ro
-      - ./asterisk_conf/modules.conf:/etc/asterisk/modules.conf:ro
-      - ./asterisk_conf/cdr.conf:/etc/asterisk/cdr.conf:ro
       - ./asterisk_conf_sounds:/var/lib/asterisk/sounds:ro
 
 networks:
