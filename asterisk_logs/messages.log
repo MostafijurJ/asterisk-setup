@@ -1,8 +1,10 @@
-[Nov 11 09:08:29] ERROR[33] res_pjsip.c: Endpoint '1001': Could not create dialog to invalid URI '1001'.  Is endpoint registered and reachable?
-[Nov 11 09:08:29] ERROR[33] chan_pjsip.c: Failed to create outgoing session to endpoint '1001'
-[Nov 11 09:08:29] NOTICE[448][C-00000005] app_dial.c: Unable to create channel of type 'PJSIP' (cause 3 - No route to destination)
-[Nov 11 09:10:25] NOTICE[33] sorcery.c: Type 'system' is not reloadable, maintaining previous values
-[Nov 11 09:10:25] ERROR[33] config_options.c: Could not find option suitable for category 'global' named 'match_auth_username' at line 3 of 
-[Nov 11 09:10:25] ERROR[33] res_sorcery_config.c: Could not create an object of type 'global' with id 'global' from configuration file 'pjsip.conf'
-[Nov 11 09:12:35] NOTICE[33] res_pjsip/config_transport.c: Transport 'transport-udp' is not fully reloadable, not reloading: protocol, bind, TLS (everything but certificate and private key if filename is unchanged), TCP, ToS, or CoS options.
-[Nov 11 09:12:35] NOTICE[33] sorcery.c: Type 'system' is not reloadable, maintaining previous values
+[Nov 11 11:10:41] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: 7TPESLbj19g4hN_Taq2Gbw..) - Failed to authenticate
+[Nov 11 11:10:41] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: hr-FIci_fo8bOk4QgGSE5g..) - Failed to authenticate
+[Nov 11 11:10:48] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: SRok4QZuA_xDsfZ21Bt60w..) - Failed to authenticate
+[Nov 11 11:11:13] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: iZp4m_sXcl2K5agzH6HUzg..) - Failed to authenticate
+[Nov 11 11:11:13] NOTICE[656] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: 8-NjvVQ6uMzE-rt_QkpX5Q..) - Failed to authenticate
+[Nov 11 11:11:21] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: mCfGB16WJ7XH1udJO2N5Xg..) - Failed to authenticate
+[Nov 11 11:11:45] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: k1clVZEZOvIiSl0mPAn-VA..) - Failed to authenticate
+[Nov 11 11:11:45] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: zf6-V5aAr2zUPkHNCcQuCw..) - Failed to authenticate
+[Nov 11 11:11:53] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:60552' (callid: JtVSKbo_qv4Lj3WBl97h4Q..) - Failed to authenticate
+[Nov 11 11:12:06] NOTICE[33] res_pjsip/pjsip_distributor.c: Request 'REGISTER' from '<sip:1002@192.168.0.104>' failed for '192.168.65.1:26126' (callid: 781iGTAMK447-Hfefk-Mjg..) - Failed to authenticate
